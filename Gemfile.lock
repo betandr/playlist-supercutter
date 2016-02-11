@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httparty (0.13.7)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.3)
+    multi_xml (0.5.5)
+    musix_match (0.2.0)
+      httparty (>= 0.6.1)
+      json
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  musix_match
+
+BUNDLED WITH
+   1.10.6
